@@ -1,0 +1,35 @@
+form{
+    padding:10px 50px 0px 50px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    background-color: 212121;
+    color: CFD8DC;
+    font-size: 20px;
+}
+form label{
+    display: block;
+}
+form input{
+    color: CFD8DC;
+    font-size: 20px;
+    background-color: 212121;
+    width:300px;
+}
+form button{
+    color: CFD8DC;
+    font-size: 20px;
+    background-color:038387;
+    width:300px;
+    padding: 10px;
+}
+form a{
+    text-decoration: none;
+    color: CFD8DC;
+    font-size: 30px;
+    background-color: 424242;
+    padding:10px 60px 0px 60px;
+}
+#errors{
+    color: red;
+}

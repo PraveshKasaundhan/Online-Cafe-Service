@@ -1,0 +1,64 @@
+
+#heading{
+    margin: 0px 0px 0px 0px;
+    font: bolder;
+    font-size: 40px;
+    color: 4CAF50;
+    background-color: 212121;
+    text-align: center;
+}
+#product #detail{
+    font-size: 50px;
+    color: FFB900;
+    display: inline;
+    padding:0 30px 0 30px;
+} 
+#product{
+    display: inline;
+    padding:0 100px 0 100px;
+}
+#slider{
+    width: 100%;
+    width: 1100px;
+    overflow: hidden;
+    margin: auto;
+}
+#upcoming{
+    width: 500%;
+    position: relative;
+    animation-name: comingsoon;
+    animation-iteration-count: infinite;
+    animation-duration: 40s;
+
+}
+   
+
+@keyframes comingsoon{
+    0%{
+        left:0px;
+    }
+    12.5%{
+        left:-1100px;
+    }
+    25%{
+        left:-2200px;
+    }
+    37.5%{
+        left:-3300px;
+    }
+    50%{
+        left:-4400px;
+    }
+    62.5%{
+        left:-3300px;
+    }
+    75%{
+        left:-2200px;
+    }
+    87.5%{
+        left:-1100px;
+    }
+    100%{
+        left:0px;
+    }
+}

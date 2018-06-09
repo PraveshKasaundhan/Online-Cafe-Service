@@ -1,0 +1,71 @@
+
+body{
+    margin: 0 0 0 0;
+    /* background-image: url('C:/wamp64/www/PANDA/pics/wall.jpg');
+    background-size: cover;
+    background-repeat:repeat; */
+    background:linear-gradient(to bottom,white,black);
+    background-attachment: fixed;
+}
+header{
+    margin: 0 0 0 0;
+    padding:  0 0 0 10;
+    color: white;    
+    height: auto;
+    background:linear-gradient(to bottom,white,black);
+}
+header #panda{
+    font-size: 100px; 
+    color: black; 
+    font-weight: bold;  
+    text-shadow: 5px 5px 5px white;
+}
+header #punch{
+    font-style: italic;
+    font-size: 20px;
+}
+nav{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    background: black;
+    height: 60px;
+    text-align: center;
+    margin: 0 0 0 0;
+}
+nav a{
+    margin: 0px 0px 0px 0px;
+    text-decoration: none;
+    display: inline-flex;
+    padding: 25px 100px 10px 100px;
+}
+nav a li{
+    margin: 0 0 0 0;
+    list-style-type: none;
+    display: inline;
+    font-size: 30px;
+    color: white;
+}
+nav a #selected{
+    color: 8B0000;
+}
+
+footer {
+    padding: 20px;
+    background:linear-gradient(to bottom,rgb(26, 25, 25),black);
+    color: white;
+    text-align: center;
+}
+footer div {
+    padding: 30px;
+    display: inline-block;
+}
+footer #media a {
+    padding: 10px;
+    font-size: 20px;
+    width: 20px;
+    text-decoration: none;
+    border-radius: 50%;
+    background: grey;
+}
+

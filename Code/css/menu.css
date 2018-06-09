@@ -1,0 +1,27 @@
+#junk{
+    display: inline-block;
+}
+#junk #heading{
+    border: 10px black solid;
+}
+#junk #heading p{
+    margin: 0 0 0 0;
+    font: bolder;
+    font-size: 40px;
+    color: 4CAF50;
+    background-color: 212121;
+    text-decoration: none;
+}
+#junk #heading div{
+    text-align: center;
+    color: FFEB3B;
+    font-size:25px;
+    padding: 10px;
+    display: inline-block;
+}
+#junk button{
+    color: white;
+    background-color:212121; 
+    padding: 10px 50px 10px 60px;
+    border: none;
+}

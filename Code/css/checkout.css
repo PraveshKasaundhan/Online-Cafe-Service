@@ -1,0 +1,28 @@
+#heading {
+    font: bolder;
+    font-size: 40px;
+    color: white;
+    background-color: yellowgreen;
+    text-align: center;
+
+}
+
+#more {
+    padding: 10px;
+    font-size: 30px;
+    background-color: green;
+    text-align: center;
+}
+
+#logout {
+    padding: 10px;
+    font-size: 30px;
+    background-color: red;
+    text-align: center;
+}
+
+a {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}

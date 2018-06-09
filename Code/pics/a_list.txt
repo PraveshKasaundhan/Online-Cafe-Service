@@ -1,0 +1,35 @@
+#JUNKS
+fries 50
+taco 50
+pizza 100
+pasta 70
+burger 80
+hotdog 80
+nachos 100
+noodles 60
+sandwich 50
+sushi 100
+
+#SWEETS
+oreo 50
+pie 50
+pastry 50
+icecream 50
+brownie 50
+dounut 50
+cookie 50
+cupcake 50
+muffin 50
+chocolate 50
+
+#DRINKS
+water 10
+lime 20
+juice 30
+milk 20
+tea 20
+milkshake 50
+mocktail 50
+softdrink 20
+coffee 50
+cola 20
